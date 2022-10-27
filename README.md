@@ -1,2 +1,3 @@
 # simplecalculator
-Python based simple calculator
+# Python based simple calculator
+# Can be modified as you can
